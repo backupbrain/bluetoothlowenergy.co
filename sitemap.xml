@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>http://bluetoothlowenergy.co/</loc> 
+	<changefreq>daily</changefreq>
+	<priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://bluetoothlowenergy.co/android/</loc> 
+	<changefreq>daily</changefreq>
+	<priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://bluetoothlowenergy.co/arduino/</loc> 
+	<changefreq>daily</changefreq>
+	<priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://bluetoothlowenergy.co/ios/</loc> 
+	<changefreq>daily</changefreq>
+	<priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://bluetoothlowenergy.co/nrf/</loc> 
+	<changefreq>daily</changefreq>
+	<priority>0.1</priority>
+  </url>
+</urlset>
